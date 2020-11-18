@@ -14,4 +14,4 @@ There are some things which are unique which I have't seen in other PoE programs
 * Bulk Live Search - min quantity, max price
 * Bulk Item Pricing - average price for given bulk orders
 
-If you do the scripts, the requirements.txt file should have all the required dependencies.
+If you do use the scripts, the requirements.txt file should have all the required dependencies.
