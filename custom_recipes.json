@@ -1,0 +1,193 @@
+[
+    {
+    "inputs":[
+        {
+            "name":"Storm Cloud",
+            "links":0,
+            "type":"Weapons",
+            "count":1
+        },
+        {
+            "name":"The Servant's Heart",
+            "type":"Prophecies",
+            "count":1
+        },
+        {
+            "name":"The Jeweller's Touch",
+            "type":"Prophecies",
+            "count":1
+        }
+        ],
+    "output":
+        {
+            "name":"The Tempest",
+            "links":5,
+            "type":"Weapons",
+            "count":1
+        }
+    },
+    {
+    "inputs":[
+        {
+            "name":"Agnerod North",
+            "type":"Weapons",
+            "links":0,
+            "count":1
+        },
+        {
+            "name":"Agnerod East",
+            "type":"Weapons",
+            "links":0,
+            "count":1
+        },
+        {
+            "name":"Agnerod South",
+            "type":"Weapons",
+            "links":0,
+            "count":1
+        },
+        {
+            "name":"Agnerod West",
+            "type":"Weapons",
+            "links":0,
+            "count":1
+        }
+        ],
+    "output":
+        {
+            "name":"The Vinktar Square",
+            "type":"Maps",
+            "count":1
+        }
+    },
+    {
+        "inputs":[
+        {
+            "name":"The World Eater",
+            "type":"Cards",
+            "count":8
+        },
+        {
+            "name":"The Jeweller's Touch",
+            "type":"Prophecies",
+            "count":1
+        }
+        ],
+    "output":
+        {
+            "name":"Starforge",
+            "links":5,
+            "type":"Weapons",
+            "count":1
+        },
+    "note":"Starforge (5L)"
+    },
+    {
+        "inputs":[
+        {
+            "name":"Beauty Through Death",
+            "type":"Cards",
+            "count":5
+        },
+        {
+            "name":"Mortal Ignorance",
+            "type":"Maps",
+            "count":1
+        },
+        {
+            "name":"Mortal Hope",
+            "type":"Maps",
+            "count":1
+        },{
+            "name":"Mortal Rage",
+            "type":"Maps",
+            "count":1
+        },{
+            "name":"Mortal Grief",
+            "type":"Maps",
+            "count":1
+        }
+        ],
+    "output":
+        {
+            "name":"Atziri's Reflection",
+            "type":"Armour",
+            "count":1
+        }
+    },
+    {
+        "inputs":[
+            {
+                "name":"Saqawine Rhex",
+                "type":"Beasts",
+                "count":1
+            }
+        ],
+    "output":
+        {
+            "name":"Saqawal's Nest",
+            "type":"Armour",
+            "count":0.5
+        }
+    },
+    {
+        "inputs":[
+            {
+                "name":"Craicic Spider Crab",
+                "type":"Beasts",
+                "count":1
+            }
+        ],
+    "output":
+        {
+            "name":"Craiceann's Carapace",
+            "type":"Armour",
+            "count":0.5
+        }
+    },
+    {
+        "inputs":[
+            {
+                "name":"Farric Tiger Alpha",
+                "type":"Beasts",
+                "count":1
+            }
+        ],
+    "output":
+        {
+            "name":"Farrul's Fur",
+            "type":"Armour",
+            "count":0.15
+        }
+    },
+    {
+        "inputs":[
+            {
+                "name":"Fenumal Hybrid Arachnid",
+                "type":"Beasts",
+                "count":1
+            }
+        ],
+    "output":
+        {
+            "name":"Fenumus' Spinnerets",
+            "type":"Armour",
+            "count":0.5
+        }
+    },
+    {
+        "inputs":[
+            {
+                "name":"Fenumal Hybrid Arachnid",
+                "type":"Beasts",
+                "count":1
+            }
+        ],
+    "output":
+        {
+            "name":"Fenumus' Weave",
+            "type":"Armour",
+            "count":0.5
+        }
+    }
+]

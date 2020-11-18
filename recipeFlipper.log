@@ -1,0 +1,6 @@
+2020-10-09 21:33:18,158 - log_recipe - <module> - INFO - Completed configuring logger()!
+2020-10-09 21:33:36,685 - log_recipe - <module> - INFO - Data download from poe.watch API complete
+2020-10-09 21:33:36,688 - log_recipe - <module> - INFO - DataFrame created
+2020-10-09 21:33:36,688 - log_recipe - <module> - INFO - Recipes found: 566
+2020-10-09 21:33:36,688 - log_recipe - <module> - INFO - Recipe 1 started
+2020-10-09 21:33:36,688 - log_recipe - <module> - INFO - {'name': 'The Stormcaller', 'type': 'Cards', 'count': 4}
